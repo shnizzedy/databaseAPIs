@@ -1,0 +1,11 @@
+{
+"db" : "pubmed",
+"retmode" : "json",
+"field" : [
+  "mh",
+  "nm",
+  "tiab",
+  "tw"
+],
+"term" : search_term
+}
