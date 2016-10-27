@@ -1,7 +1,8 @@
 {
   "icd" : [
     "http://apps.who.int/classifications/icd10/browse/2016/en/JsonGetRootConcepts",
-    "http://apps.who.int/classifications/icd10/browse/2016/en/JsonGetChildrenConcepts"
+    "http://apps.who.int/classifications/icd10/browse/2016/en/JsonGetChildrenConcepts",
+    "http://apps.who.int/classifications/icd10/browse/2016/en/GetConcept"
     ],
   "pubmed" : [
     "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi",
