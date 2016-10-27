@@ -1,10 +1,10 @@
 {
-"country": "us",
-"media": "software",
+"country" : "us",
+"media" : "software",
 "attribute" : [
   "ratingIndex",
   "keywordsTerm",
   "descriptionTerm"
   ],
-"term": search_term
+"term" : search_term
 }
