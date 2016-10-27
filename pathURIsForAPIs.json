@@ -1,4 +1,8 @@
 {
-"pubmed" : "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi",
+"pubmed" : [
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi",
+  "eutils.ncbi.nlm.nih.gov/entrez/eutils/einfo.fcgi",
+  "eutils.ncbi.nlm.nih.gov/entrez/eutils/egquery.fcgi"
+  ],
 "apple" : "https://itunes.apple.com/search"
 }
