@@ -1,8 +1,13 @@
 {
-"pubmed" : [
-  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi",
-  "eutils.ncbi.nlm.nih.gov/entrez/eutils/einfo.fcgi",
-  "eutils.ncbi.nlm.nih.gov/entrez/eutils/egquery.fcgi"
-  ],
-"apple" : "https://itunes.apple.com/search"
+  "icd" : [
+    "http://apps.who.int/classifications/icd10/browse/2016/en/JsonGetRootConcepts",
+    "http://apps.who.int/classifications/icd10/browse/2016/en/JsonGetChildrenConcepts"
+    ],
+  "pubmed" : [
+    "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi",
+    "eutils.ncbi.nlm.nih.gov/entrez/eutils/einfo.fcgi",
+    "eutils.ncbi.nlm.nih.gov/entrez/eutils/egquery.fcgi"
+    ],
+  "apple" : "https://itunes.apple.com/search",
+  "google" : "https://play.google.com/store/search"
 }
